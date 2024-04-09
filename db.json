@@ -196,6 +196,13 @@
       "utilisateur": "Vin09",
       "commentaire": "Merci pour ces superbes plaquettes !",
       "id": 22
+    },
+    {
+      "pieceId": 3,
+      "utilisateur": "Vin09",
+      "commentaire": "Super produit !",
+      "nbEtoiles": "5",
+      "id": 23
     }
   ]
 }
